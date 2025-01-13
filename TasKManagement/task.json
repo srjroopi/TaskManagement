@@ -1,0 +1,46 @@
+{
+  "tasks": [
+    {
+      "id": "e31c",
+      "title": "heloo",
+      "completed": false,
+      "createdAt": "2024-08-29T09:48:00.840Z"
+    },
+    {
+      "id": "0b8f",
+      "title": "task 1",
+      "completed": false,
+      "createdAt": "2024-08-29T10:19:40.687Z"
+    }
+  ],
+  "completedTasks": [
+    {
+      "id": "1316",
+      "title": "task 1",
+      "completed": true,
+      "createdAt": "2024-08-29T07:41:49.320Z",
+      "completedAt": "2024-08-29T09:47:52.733Z"
+    },
+    {
+      "id": "faf0",
+      "title": "redux thunk and saga",
+      "completed": true,
+      "createdAt": "2024-08-29T07:41:51.582Z",
+      "completedAt": "2024-08-29T09:47:54.010Z"
+    },
+    {
+      "id": "335f",
+      "title": "task 1",
+      "completed": true,
+      "createdAt": "2024-08-29T07:40:11.876Z",
+      "completedAt": "2024-08-29T09:47:54.810Z"
+    },
+    {
+      "id": "35e5",
+      "title": "4444444",
+      "completed": true,
+      "createdAt": "2024-08-29T07:41:53.521Z",
+      "completedAt": "2024-08-29T09:47:56.484Z"
+    }
+  ]
+}
